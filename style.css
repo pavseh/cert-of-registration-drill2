@@ -44,6 +44,11 @@ body {
     color: rgb(255, 0, 0);
 }
 
+#unit-subtitle {
+    font-size: small;
+}
+
+
 .student-info, .subject-info, .fees-info, .additional-info {
     margin-top: 30px;
 }
@@ -77,4 +82,13 @@ body {
 
 .fees-info, .additional-info {
     width: 48%;
+}
+
+footer {
+    margin-top: 60px;
+}
+
+footer p {
+    text-align: center;
+    margin: 20px 0;
 }
