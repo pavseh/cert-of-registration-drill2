@@ -58,3 +58,23 @@ body {
     border: 1px solid #000;
     padding: 8px;
 }
+
+
+.subject-table th {
+    text-align: center;
+    background-color: #d1d1d1;
+}
+
+.total td {
+    font-weight: bold;
+}
+
+.info-section {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.fees-info, .additional-info {
+    width: 48%;
+}
