@@ -5,6 +5,20 @@ body {
     margin: 20px;
 }
 
+.student-info h3 {
+    text-align: center;
+}
+
+.fees-info h3 {
+    text-align: center;
+}
+
+.additional-info h3 {
+    text-align: center;
+}
+
+
+
 .container {
     width: 100%;
     max-width: 900px;
