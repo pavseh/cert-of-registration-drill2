@@ -48,6 +48,14 @@ body {
     font-size: small;
 }
 
+#total-unit {
+    text-align: center;
+}
+
+#subject-code {
+    text-align: center;
+}
+
 
 .student-info, .subject-info, .fees-info, .additional-info {
     margin-top: 30px;
