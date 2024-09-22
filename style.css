@@ -43,3 +43,18 @@ body {
 .highlight {
     color: rgb(255, 0, 0);
 }
+
+.student-info, .subject-info, .fees-info, .additional-info {
+    margin-top: 30px;
+}
+
+
+.student-info table, .subject-table, .fees-table, .payment-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.student-info td, .subject-table th, .subject-table td, .fees-table td, .payment-table td {
+    border: 1px solid #000;
+    padding: 8px;
+}
