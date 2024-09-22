@@ -89,7 +89,11 @@ body {
 
 .subject-table th {
     text-align: center;
-    background-color: #d1d1d1;
+    background-color: #7cc6f8;
+}
+
+.balance td{
+    background-color: #fd793b;
 }
 
 .total td {
